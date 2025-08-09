@@ -1,0 +1,244 @@
+<config>
+
+	<append xpath="/items">
+
+		<!--Ammo Boxes-->
+
+		<!-- 9mm Ammo Boxes-->
+		<item name="ammoBundle9mmBulletBall">
+			<property name="Extends" value="ammoBundle9mmBulletBall" />
+			<property name="CustomIcon" value="ammoBundle9mmBulletBall" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle9mmBulletHP">
+			<property name="Extends" value="ammoBundle9mmBulletHP" />
+			<property name="CustomIcon" value="ammoBundle9mmBulletHP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle9mmBulletAP">
+			<property name="Extends" value="ammoBundle9mmBulletAP" />
+			<property name="CustomIcon" value="ammoBundle9mmBulletAP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<!-- 44 Magnum Ammo Boxes-->
+
+		<item name="ammoBundle44MagnumBulletBall">
+			<property name="Extends" value="ammoBundle44MagnumBulletBall" />
+			<property name="CustomIcon" value="ammoBundle44MagnumBulletBall" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle44MagnumBulletHP">
+			<property name="Extends" value="ammoBundle44MagnumBulletHP" />
+			<property name="CustomIcon" value="ammoBundle44MagnumBulletHP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle44MagnumBulletAP">
+			<property name="Extends" value="ammoBundle44MagnumBulletAP" />
+			<property name="CustomIcon" value="ammoBundle44MagnumBulletAP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<!-- 7.62 Ammo Boxes-->
+
+		<item name="ammoBundle762mmBulletBall">
+			<property name="Extends" value="ammoBundle762mmBulletBall" />
+			<property name="CustomIcon" value="ammoBundle762mmBulletBall" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle762mmBulletHP">
+			<property name="Extends" value="ammoBundle762mmBulletHP" />
+			<property name="CustomIcon" value="ammoBundle762mmBulletHP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundle762mmBulletAP">
+			<property name="Extends" value="ammoBundle762mmBulletAP" />
+			<property name="CustomIcon" value="ammoBundle762mmBulletAP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+
+		<!-- Shell Ammo Boxes-->
+
+		<item name="ammoBundleShotgunShell">
+			<property name="Extends" value="ammoBundleShotgunShell" />
+			<property name="CustomIcon" value="ammoBundleShotgunShell" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleShotgunSlug">
+			<property name="Extends" value="ammoBundleShotgunSlug" />
+			<property name="CustomIcon" value="ammoBundleShotgunSlug" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleShotgunBreachingSlug">
+			<property name="Extends" value="ammoBundleShotgunBreachingSlug" />
+			<property name="CustomIcon" value="ammoBundle762mmBulletBreachingSlug" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<!-- Arrow Ammo Boxes-->
+
+		<item name="ammoBundleArrowFlaming">
+			<property name="Extends" value="ammoBundleArrowFlaming" />
+			<property name="CustomIcon" value="ammoBundleArrowFlaming" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+
+		<item name="ammoBundleArrowExploding">
+			<property name="Extends" value="ammoBundleArrowExploding" />
+			<property name="CustomIcon" value="ammoBundleArrowExploding" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleArrowIron">
+			<property name="Extends" value="ammoBundleArrowIron" />
+			<property name="CustomIcon" value="ammoBundleArrowIron" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+
+		<item name="ammoBundleArrowSteelAP">
+			<property name="Extends" value="ammoBundleArrowSteelAP" />
+			<property name="CustomIcon" value="ammoBundleArrowSteelAP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+
+		<item name="ammoBundleArrowStone">
+			<property name="Extends" value="ammoBundleArrowStone" />
+			<property name="CustomIcon" value="ammoBundleArrowStone" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<!-- Crossbow Arrow Ammo -->
+
+		<item name="ammoBundleCrossbowBoltFlaming">
+			<property name="Extends" value="ammoBundleCrossbowBoltFlaming" />
+			<property name="CustomIcon" value="ammoBundleArrowFlaming" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleCrossbowBoltExploding">
+			<property name="Extends" value="ammoBundleCrossbowBoltExploding" />
+			<property name="CustomIcon" value="ammoBundleCrossbowBoltExploding" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleCrossbowBoltIron">
+			<property name="Extends" value="ammoBundleCrossbowBoltIron" />
+			<property name="CustomIcon" value="ammoBundleCrossbowBoltIron" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleCrossbowBoltSteelAP">
+			<property name="Extends" value="ammoBundleCrossbowBoltSteelAP" />
+			<property name="CustomIcon" value="ammoBundleCrossbowBoltSteelAP" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+		<item name="ammoBundleCrossbowBoltStone">
+			<property name="Extends" value="ammoBundleCrossbowBoltStone" />
+			<property name="CustomIcon" value="ammoBundleCrossbowBoltStone" />
+			<property name="Stacknumber" value="10" />
+			<property name="EconomicValue" value="0" />
+			<property class="Action0">
+				<property name="Create_item_count" value="500" />
+			</property>
+		</item>
+
+
+	</append>
+</config>
